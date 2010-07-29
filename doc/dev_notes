@@ -1,0 +1,37 @@
+scaffold version of app from Chapter 2 of rails tutorial 
+
+altered the Gemfile
+  source 'http://rubygems.org'
+
+  gem 'rails', '3.0.0.rc'
+  gem 'sqlite3-ruby',  '1.2.5', :require => 'sqlite3'
+
+did bundle install
+$bundle install
+  Using rake (0.8.7) 
+  Using abstract (1.0.0) 
+  Using activesupport (3.0.0.rc) 
+  Using builder (2.1.2) 
+  Using i18n (0.4.1) 
+  Using activemodel (3.0.0.rc) 
+  Using erubis (2.6.6) 
+  Using rack (1.2.1) 
+  Using rack-mount (0.6.9) 
+  Using rack-test (0.5.4) 
+  Using tzinfo (0.3.22) 
+  Using actionpack (3.0.0.rc) 
+  Using mime-types (1.16) 
+  Using polyglot (0.3.1) 
+  Using treetop (1.4.8) 
+  Using mail (2.2.5) 
+  Using actionmailer (3.0.0.rc) 
+  Using arel (0.4.0) 
+  Using activerecord (3.0.0.rc) 
+  Using activeresource (3.0.0.rc) 
+  Using bundler (1.0.0.rc.1) 
+  Using thor (0.14.0) 
+  Using railties (3.0.0.rc) 
+  Using rails (3.0.0.rc) 
+  Using sqlite3-ruby (1.2.5) 
+
+
